@@ -1,4 +1,4 @@
-# 🤖 Body Detection App
+# 🤖 Body Detection 
 
 A simple **Body Detection application** built using **Python and OpenCV** that detects human bodies in images using a Haar Cascade classifier.
 
